@@ -1,4 +1,6 @@
 package com.codecool.android.movieapp.ui;
 
-public class MainPresenterInterface {
+public interface MainPresenterInterface {
+
+    void getMovies();
 }
