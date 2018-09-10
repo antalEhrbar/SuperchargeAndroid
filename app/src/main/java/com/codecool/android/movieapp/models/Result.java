@@ -51,7 +51,7 @@ public class Result {
     @Expose
     private String releaseDate;
 
-   
+
     public Result() {
     }
 
